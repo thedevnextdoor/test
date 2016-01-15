@@ -10,9 +10,9 @@
     {
       "secondOption": "17",
       "sku": "hhhhh",
-      "isSoldOut": true,
+      "isSoldOut": false,
       "price": "20.00",
-      "remainInStok": 0
+      "remainInStok": 5
     },
     {
       "secondOption": "18",
@@ -26,7 +26,7 @@
     {
       "secondOption": null,
       "sku": "sdsdsd",
-      "isSoldOut": true,
+      "isSoldOut": false,
       "price": "5.00",
       "remainInStok": 3
     }
