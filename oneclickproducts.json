@@ -4,21 +4,21 @@
       "secondOption": "16",
       "sku": "sdsd",
       "isSoldOut": false,
-      "price": "0.00",
+      "price": "10.00",
       "remainInStok": 9
     },
     {
       "secondOption": "17",
       "sku": "hhhhh",
       "isSoldOut": true,
-      "price": "0.00",
+      "price": "20.00",
       "remainInStok": 0
     },
     {
       "secondOption": "18",
       "sku": "hhhh",
       "isSoldOut": false,
-      "price": "0.00",
+      "price": "30.00",
       "remainInStok": 9997
     }
   ],
@@ -27,8 +27,8 @@
       "secondOption": null,
       "sku": "sdsdsd",
       "isSoldOut": true,
-      "price": "0.00",
-      "remainInStok": -1
+      "price": "5.00",
+      "remainInStok": 3
     }
   ],
   "other free p": [
