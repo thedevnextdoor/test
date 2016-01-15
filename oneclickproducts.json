@@ -1,0 +1,52 @@
+{
+  "one": [
+    {
+      "secondOption": "16",
+      "sku": "sdsd",
+      "isSoldOut": false,
+      "price": "0.00",
+      "remainInStok": 9
+    },
+    {
+      "secondOption": "17",
+      "sku": "hhhhh",
+      "isSoldOut": true,
+      "price": "0.00",
+      "remainInStok": 0
+    },
+    {
+      "secondOption": "18",
+      "sku": "hhhh",
+      "isSoldOut": false,
+      "price": "0.00",
+      "remainInStok": 9997
+    }
+  ],
+  "tow": [
+    {
+      "secondOption": null,
+      "sku": "sdsdsd",
+      "isSoldOut": true,
+      "price": "0.00",
+      "remainInStok": -1
+    }
+  ],
+  "other free p": [
+    {
+      "secondOption": null,
+      "sku": "sxsx",
+      "isSoldOut": false,
+      "price": "0.00",
+      "remainInStok": 97
+    }
+  ],
+  "dsqdsd": [
+    {
+      "secondOption": "dsd",
+      "sku": "dsdsd",
+      "isSoldOut": true,
+      "price": "0.00",
+      "remainInStok": 0
+    }
+  ]
+}
